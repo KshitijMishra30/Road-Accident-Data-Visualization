@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local data (add only if you have permission to share it)
+data/*.csv
+data/*.xlsx
+data/*.xls
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
